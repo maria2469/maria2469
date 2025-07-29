@@ -13,6 +13,7 @@ https://www.linkedin.com/in/maria-noor-146010256/
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - JavaScript 
 - [React Native](https://reactnative.dev/)
+- Python 
   
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
