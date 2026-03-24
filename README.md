@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Noor</h1>
-<h3 align="center">🚀 Aspiring AI Engineer | Full Stack Developer | Automation Enthusiast I’m passionate about building intelligent systems and tools that combine **AI, automation, and scalable engineering** to solve real-world problems.</h3>
-
-- 🌱 I’m currently learning **Agentic Ai**
-
+<h3 align="center">🚀 AI Engineer | Full Stack Developer | Automation Enthusiast I’m passionate about building intelligent systems and tools that combine **AI, automation, and scalable engineering** to solve real-world problems.</h3>
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maria2469?tab=repositories](https://github.com/maria2469?tab=repositories)
