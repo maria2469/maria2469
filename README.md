@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Hi%20there%2C%20I%20am%20Maria%20Noor%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20%26%20Workflow%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
-
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A371F7&center=true&vCenter=true&width=800&lines=AI+Agent+%26+Automation+Engineer;n8n+Workflow+Architect;RAG+%2B+LangGraph+Pipeline+Builder;Turning+LLMs+into+Production+Systems)](https://git.io/typing-svg)
 
 </div>
@@ -176,20 +170,6 @@ Explore the full collection of automation agents, RAG systems, and full-stack bu
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria2469&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
-
-<div align="center">
-
-#### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maria2469/maria2469/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maria2469/maria2469/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/maria2469/maria2469/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-<sub>⚙️ Animated snake that eats my contribution graph — auto-generated daily. Setup steps below ⬇️</sub>
-
 </div>
 
 ---
