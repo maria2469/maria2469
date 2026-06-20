@@ -4,7 +4,11 @@
 
 </div>
 
-<h3 align="center">🤖 AI Agent & Automation Engineer | n8n Workflow Architect | RAG & LangGraph Builder</h3>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A371F7&center=true&vCenter=true&width=800&lines=AI+Agent+%26+Automation+Engineer;n8n+Workflow+Architect;RAG+%2B+LangGraph+Pipeline+Builder;Turning+LLMs+into+Production+Systems)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
 I design and ship <b>production-ready intelligent automation systems</b> — fusing LLMs, agentic pipelines, and real-world APIs into workflows that actually run in production, not just in demos.
@@ -12,6 +16,11 @@ I design and ship <b>production-ready intelligent automation systems</b> — fus
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maria2469&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/dynamic-status-success?style=for-the-badge&label=Status&color=39d353&logo=statuspage&logoColor=white" alt="status"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/robot.gif" width="80" alt="robot animation"/>
 </p>
 
 <p align="center">
@@ -28,6 +37,12 @@ I design and ship <b>production-ready intelligent automation systems</b> — fus
 
 ---
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maria2469&theme=tokyo-night&hide_border=true&area=true&custom_title=Maria's%20Contribution%20Activity" width="100%"/>
+</div>
+
+---
+
 ### 🧠 About Me
 
 - 🚀 Building **agentic AI systems** with **LangChain**, **LangGraph**, and **n8n** that automate real business processes end-to-end
@@ -40,6 +55,10 @@ I design and ship <b>production-ready intelligent automation systems</b> — fus
 ---
 
 ### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/circuit.gif" width="60" alt="circuit animation"/>
+</p>
 
 <div align="center">
 
@@ -78,6 +97,10 @@ I design and ship <b>production-ready intelligent automation systems</b> — fus
 ---
 
 ### 🌟 Featured Projects
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/rocket.gif" width="60" alt="rocket animation"/>
+</p>
 
 <table>
 <tr>
@@ -155,6 +178,20 @@ Explore the full collection of automation agents, RAG systems, and full-stack bu
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria2469&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
+<div align="center">
+
+#### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maria2469/maria2469/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maria2469/maria2469/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/maria2469/maria2469/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<sub>⚙️ Animated snake that eats my contribution graph — auto-generated daily. Setup steps below ⬇️</sub>
+
+</div>
+
 ---
 
 ### 🎓 Education & Certifications
@@ -179,6 +216,25 @@ Explore the full collection of automation agents, RAG systems, and full-stack bu
   <img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=39d353&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+⚡;Let's+automate+something+great+🚀)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/wave.gif" width="100" alt="waving goodbye"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
 </div>
+
+<details>
+<summary><sub>⚙️ How the snake animation above stays alive (one-time setup)</sub></summary>
+
+<br/>
+
+To make the contribution snake actually animate with your live GitHub data:
+
+1. In your `maria2469/maria2469` repo, go to **Actions → New workflow → set up a workflow yourself**
+2. Use the [`snk` GitHub Action](https://github.com/Platane/snk) — paste their sample YAML, it generates the SVG on a daily schedule and pushes it to an `output` branch
+3. Commit the workflow file — GitHub Actions will run it automatically and keep the snake fed with your real contribution graph
+
+</details>
