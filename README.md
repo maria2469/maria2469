@@ -1,19 +1,184 @@
-<h1 align="center">Hi 👋, I'm Maria Noor</h1>
-<h3 align="center">🚀 AI Engineer | Full Stack Developer | Automation Enthusiast I’m passionate about building intelligent systems and tools that combine **AI, automation, and scalable engineering** to solve real-world problems.</h3>
-- 👯 I’m looking to collaborate on **open source projects**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/maria2469?tab=repositories](https://github.com/maria2469?tab=repositories)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Hi%20there,%20I'm%20Maria%20Noor%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20%26%20Workflow%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
-- 💬 Ask me about **anything related to my skills and projects**
+</div>
 
-- 📫 How to reach me **tomarianoor@gmail.com**
+<h3 align="center">🤖 AI Agent & Automation Engineer | n8n Workflow Architect | RAG & LangGraph Builder</h3>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maria-noor-146010256/](https://www.linkedin.com/in/maria-noor-146010256/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maria-noor-146010256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maria-noor-146010256/" height="30" width="40" /></a>
+<p align="center">
+I design and ship <b>production-ready intelligent automation systems</b> — fusing LLMs, agentic pipelines, and real-world APIs into workflows that actually run in production, not just in demos.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maria2469&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maria-noor-146010256/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tomarianoor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/maria2469?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🚀 Building **agentic AI systems** with **LangChain**, **LangGraph**, and **n8n** that automate real business processes end-to-end
+- 🔍 Specialized in **RAG pipelines** — Pinecone + Gemini Embeddings + Groq LLM, turning raw documents into grounded, hallucination-resistant answers
+- ⚙️ I connect AI to the tools people actually use: **Gmail, Google Drive, Calendar, Airtable** — zero manual intervention, fully autonomous flows
+- 🧩 Deep focus on **multi-agent architecture**: intent extraction, memory management, deterministic output, and reliable orchestration
+- 👯 Always open to collaborating on **open-source AI / automation projects**
+- 📫 Reach me at **tomarianoor@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Automation & AI**
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+**Languages & Frameworks**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+**Tools & Data**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📧 AI Customer Support Email Agent**
+
+End-to-end Gmail-triggered triage system in n8n. Groq LLM classifies queries, an AI agent retrieves grounded answers from a Pinecone knowledge base via Gemini embeddings, and replies go out fully autonomously — zero manual intervention.
+
+`n8n` `Groq` `Pinecone` `Gmail API`
+
+</td>
+<td width="50%" valign="top">
+
+**🧾 Automated Invoice & Document Processor**
+
+Multi-format pipeline routing PNG/PDF/CSV attachments through Gemini Vision and Groq-powered extraction, normalizing invoices into structured records and eliminating manual data entry.
+
+`n8n` `Gemini Vision` `Groq` `Airtable`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📚 Document Knowledge RAG Pipeline**
+
+Google Drive → chunked & embedded into Pinecone in real time, with a separate chat-triggered AI agent retrieving context for grounded, document-aware conversations.
+
+`n8n` `Pinecone` `Gemini Embeddings` `Drive API`
+
+</td>
+<td width="50%" valign="top">
+
+**📅 OpsPilot — Productivity & Scheduling Assistant**
+
+Multi-agent LangGraph system for email summarization, intent extraction, and calendar conflict resolution — built for production reliability and real-world usability.
+
+`Python` `FastAPI` `LangGraph` `Calendar API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🩺 MediBot — RAG-Based Medical AI Assistant**
+
+Retrieval-augmented assistant grounding LLM reasoning in retrieved medical context via Pinecone similarity search, with prompt-level safety constraints to reduce hallucinations.
+
+`LangChain` `Pinecone` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+**🔗 More on GitHub**
+
+Explore the full collection of automation agents, RAG systems, and full-stack builds.
+
+[![View Repos](https://img.shields.io/badge/View_All_Repos-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maria2469?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=maria2469&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maria2469&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria2469&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+---
+
+### 🎓 Education & Certifications
+
+- 🎓 **BS Computer Science** — University of Agriculture, Faisalabad
+- ✅ Google Crash Course on Python — Google / Coursera
+- ✅ Using Python to Interact with the Operating System — Google / Coursera
+- ✅ Introduction to Git and GitHub — Google / Coursera
+- ✅ CS50: Introduction to Computer Science — Harvard University
+- 🏆 Winner, Problem Solving Competition — Tech Fest 2025, UAF
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Autonomous Together
+
+<a href="https://www.linkedin.com/in/maria-noor-146010256/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:tomarianoor@gmail.com">
+  <img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
+</div>
