@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Hi%20there,%20I'm%20Maria%20Noor%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20%26%20Workflow%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Hi%20there%2C%20I%20am%20Maria%20Noor%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20%26%20Workflow%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
 </div>
 
@@ -225,16 +225,3 @@ Explore the full collection of automation agents, RAG systems, and full-stack bu
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
 </div>
-
-<details>
-<summary><sub>⚙️ How the snake animation above stays alive (one-time setup)</sub></summary>
-
-<br/>
-
-To make the contribution snake actually animate with your live GitHub data:
-
-1. In your `maria2469/maria2469` repo, go to **Actions → New workflow → set up a workflow yourself**
-2. Use the [`snk` GitHub Action](https://github.com/Platane/snk) — paste their sample YAML, it generates the SVG on a daily schedule and pushes it to an `output` branch
-3. Commit the workflow file — GitHub Actions will run it automatically and keep the snake fed with your real contribution graph
-
-</details>
