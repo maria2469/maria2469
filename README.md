@@ -10,7 +10,6 @@ I design and ship <b>production-ready intelligent automation systems</b> — fus
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maria2469&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/badge/dynamic-status-success?style=for-the-badge&label=Status&color=39d353&logo=statuspage&logoColor=white" alt="status"/>
 </p>
 
 <p align="center">
@@ -41,10 +40,9 @@ I design and ship <b>production-ready intelligent automation systems</b> — fus
 
 - 🚀 Building **agentic AI systems** with **LangChain**, **LangGraph**, and **n8n** that automate real business processes end-to-end
 - 🔍 Specialized in **RAG pipelines** — Pinecone + Gemini Embeddings + Groq LLM, turning raw documents into grounded, hallucination-resistant answers
-- ⚙️ I connect AI to the tools people actually use: **Gmail, Google Drive, Calendar, Airtable** — zero manual intervention, fully autonomous flows
+- ⚙️ Connecting AI to the tools people actually use — **Gmail, Google Drive, Calendar, Airtable** — with zero manual intervention and fully autonomous flows
 - 🧩 Deep focus on **multi-agent architecture**: intent extraction, memory management, deterministic output, and reliable orchestration
 - 👯 Always open to collaborating on **open-source AI / automation projects**
-- 📫 Reach me at **tomarianoor@gmail.com**
 
 ---
 
@@ -102,7 +100,7 @@ I design and ship <b>production-ready intelligent automation systems</b> — fus
 
 **📧 AI Customer Support Email Agent**
 
-End-to-end Gmail-triggered triage system in n8n. Groq LLM classifies queries, an AI agent retrieves grounded answers from a Pinecone knowledge base via Gemini embeddings, and replies go out fully autonomously — zero manual intervention.
+End-to-end Gmail-triggered triage system in n8n. A Groq LLM classifies queries, an AI agent retrieves grounded answers from a Pinecone knowledge base via Gemini embeddings, and replies go out fully autonomously — zero manual intervention.
 
 `n8n` `Groq` `Pinecone` `Gmail API`
 
@@ -122,7 +120,7 @@ Multi-format pipeline routing PNG/PDF/CSV attachments through Gemini Vision and 
 
 **📚 Document Knowledge RAG Pipeline**
 
-Google Drive → chunked & embedded into Pinecone in real time, with a separate chat-triggered AI agent retrieving context for grounded, document-aware conversations.
+Google Drive → chunked and embedded into Pinecone in real time, with a separate chat-triggered AI agent retrieving context for grounded, document-aware conversations.
 
 `n8n` `Pinecone` `Gemini Embeddings` `Drive API`
 
