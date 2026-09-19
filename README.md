@@ -28,7 +28,7 @@ I design and ship <b>production-ready intelligent automation systems</b> — fus
 ---
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maria2469&theme=tokyo-night&hide_border=true&area=true&custom_title=Maria's%20Contribution%20Activity" width="100%"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=maria2469&theme=tokyo-night&hide_border=true&area=true&custom_title=Maria's%20Contribution%20Activity" width="100%"/>
 </div>
 
 ---
