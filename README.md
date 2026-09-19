@@ -1,8 +1,5 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A371F7&center=true&vCenter=true&width=800&lines=AI+Agent+%26+Automation+Engineer;n8n+Workflow+Architect;RAG+%2B+LangGraph+Pipeline+Builder;Turning+LLMs+into+Production+Systems)](https://git.io/typing-svg)
-
-</div>
+<h2 align="center">AI Agent & Automation Engineer</h2>
+<p align="center"><sub>n8n Workflow Architect · RAG + LangGraph Pipeline Builder · Turning LLMs into Production Systems</sub></p>
 
 <p align="center">
 I design and ship <b>production-ready intelligent automation systems</b> — fusing LLMs, agentic pipelines, and real-world APIs into workflows that actually run in production, not just in demos.
@@ -98,51 +95,51 @@ I design and ship <b>production-ready intelligent automation systems</b> — fus
 <tr>
 <td width="50%" valign="top">
 
-**📧 AI Customer Support Email Agent**
+**🧊 AquaRack — Agentic Digital Twin for Data Center Cooling**
 
-End-to-end Gmail-triggered triage system in n8n. A Groq LLM classifies queries, an AI agent retrieves grounded answers from a Pinecone knowledge base via Gemini embeddings, and replies go out fully autonomously — zero manual intervention.
+Enterprise-grade agentic digital twin forecasting thermal load and cooling-water usage across a 100-rack fleet, orchestrated as a 6-stage LangGraph state machine (Monitor → Predictor → Optimizer → Action → Reflect → Explainer). Uses CockroachDB's Managed MCP Server as a persistent agent memory layer, with closed-loop autonomous actuation and a live SSE console streaming agent reasoning in real time.
 
-`n8n` `Groq` `Pinecone` `Gmail API`
+`LangGraph` `CockroachDB` `MCP` `FastAPI` `Ollama` `Groq`
 
 </td>
 <td width="50%" valign="top">
 
-**🧾 Automated Invoice & Document Processor**
+**🛍️ WhatsApp AI Commerce Agent**
 
-Multi-format pipeline routing PNG/PDF/CSV attachments through Gemini Vision and Groq-powered extraction, normalizing invoices into structured records and eliminating manual data entry.
+Autonomous WhatsApp shopping agent grounded in a live product database and Pinecone vector store, with real-time tool calling for product lookup, image delivery, and a recommendation engine that suggests related products based on conversation context and purchase intent.
 
-`n8n` `Gemini Vision` `Groq` `Airtable`
+`n8n` `WhatsApp Business API` `Groq` `Pinecone`
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+**🎙️ AI Voice Agent — ElevenLabs + n8n**
+
+Real-time voice agent connected to a custom n8n backend via webhook, enabling natural spoken conversations with live tool-calling — looking up contacts in Google Sheets and sending emails through Gmail autonomously, mid-conversation.
+
+`ElevenLabs Conversational AI` `n8n` `Gmail API` `Google Sheets`
+
+</td>
 <td width="50%" valign="top">
 
 **📚 Document Knowledge RAG Pipeline**
 
-Google Drive → chunked and embedded into Pinecone in real time, with a separate chat-triggered AI agent retrieving context for grounded, document-aware conversations.
+Automated ingestion pipeline triggered on new Google Drive files, chunking and embedding content into a Pinecone vector index, paired with a separate chat-triggered agent that retrieves relevant chunks for grounded, document-aware responses.
 
 `n8n` `Pinecone` `Gemini Embeddings` `Drive API`
-
-</td>
-<td width="50%" valign="top">
-
-**📅 OpsPilot — Productivity & Scheduling Assistant**
-
-Multi-agent LangGraph system for email summarization, intent extraction, and calendar conflict resolution — built for production reliability and real-world usability.
-
-`Python` `FastAPI` `LangGraph` `Calendar API`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🩺 MediBot — RAG-Based Medical AI Assistant**
+**🧒 KidoDev — AI Coding Education Platform**
 
-Retrieval-augmented assistant grounding LLM reasoning in retrieved medical context via Pinecone similarity search, with prompt-level safety constraints to reduce hallucinations.
+Co-founded an AI-powered coding platform for kids. Architected a multi-agent system — an Agent Orchestrator routing to a Socratic Tutor, a Curriculum Agent, and a Business Insights Agent — backed by a locally-deployed Qwen 2.5 model for zero-external-API, subsecond-latency inference.
 
-`LangChain` `Pinecone` `FastAPI`
+`React` `Blockly` `Supabase` `Qwen 2.5` `Groq`
 
 </td>
 <td width="50%" valign="top">
@@ -163,7 +160,7 @@ Explore the full collection of automation agents, RAG systems, and full-stack bu
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=maria2469&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maria2469&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=maria2469&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 <div align="center">
@@ -196,7 +193,7 @@ Explore the full collection of automation agents, RAG systems, and full-stack bu
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=39d353&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+⚡;Let's+automate+something+great+🚀)](https://git.io/typing-svg)
+**Thanks for stopping by ⚡ — let's automate something great 🚀**
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/wave.gif" width="100" alt="waving goodbye"/>
 
